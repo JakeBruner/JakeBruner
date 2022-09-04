@@ -23,5 +23,3 @@ I'm a purely self-taught developer-hobbyist who's been working with computers al
   * Some basic scripting in Roblox with Lua
   * A lot of scripting to tunnel thru internet blockers as a kid
   * Familiarity with Tails linux, encryption concepts, some kali linux and more.
-
-https://github-readme-stats.vercel.app/api?username=jakebruner
