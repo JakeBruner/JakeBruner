@@ -17,9 +17,9 @@ I'm a purely self-taught developer-hobbyist who's been working with computers al
   * Many small Math projects for school etc.
 * **Functional**
   * Progressively understanding more and more Haskell
-  * Work with functional paradigms to streamline code (especially in TypeScript)
+  * Trying to use functional paradigms to streamline code (especially in TypeScript)
 * **Scripting**
   * Working with Java for Minecraft client mods
   * Some basic scripting in Roblox with Lua
-  * A lot of scripting to tunnel thru internet blockers as a kid
+  * A lot of command-line scripting to tunnel thru internet blockers as a kid
   * Familiarity with Tails linux, encryption concepts, some kali linux and more.
