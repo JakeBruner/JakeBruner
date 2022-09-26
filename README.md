@@ -12,7 +12,8 @@ I'm a purely self-taught developer-hobbyist who's been working with computers al
   * WebGL
   * a bit of Vue
 * **Python**
-  * Tensorflow and openCV
+  * Worked with Tensorflow and openCV
+  * Worked on data analysis with Numpy, Pandas, Scipy, etc.
   * 3b1b's Manim (Math animation)
   * Many small Math projects for school etc.
 * **Functional**
