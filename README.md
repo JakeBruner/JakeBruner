@@ -5,6 +5,7 @@ I'm a purely self-taught developer-hobbyist who's been working with computers al
 
 * **Webdev** 
   * TypeScript
+  * Rust + WebAssembly :)
   * Svelte, SvelteKit
   * Tailwindcss
   * Bootstrap
