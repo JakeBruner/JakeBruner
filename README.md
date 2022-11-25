@@ -4,24 +4,18 @@ I'm a purely self-taught developer-hobbyist who's been working with computers al
 ### Languages I work with:
 
 * **Webdev** 
-  * TypeScript
-  * Rust + WebAssembly :)
-  * Svelte, SvelteKit
-  * Tailwindcss
-  * Bootstrap
-  * SVG tooling
+  * TypeScript, Svelte, Tailwindcss
   * WebGL
-  * a bit of Vue
+  * Rust
+  * a bit of Vue/React
 * **Python**
-  * Worked with Tensorflow and openCV
-  * Worked on data analysis with Numpy, Pandas, Scipy, etc.
-  * 3b1b's Manim (Math animation)
+  * A bit of Tensorflow and openCV
+  * A bit of Numpy, Pandas, Scipy, etc.
+  * 3b1b's Manim (Math animation) tool
   * Many small Math projects for school etc.
-* **Functional**
-  * Progressively understanding more and more Haskell
-  * Trying to use functional paradigms to streamline code (especially in TypeScript)
 * **Scripting**
+  * Haskell <3
   * Working with Java for Minecraft client mods
   * Some basic scripting in Roblox with Lua
-  * A lot of command-line scripting to tunnel thru internet blockers as a kid
+  * A lot of terminal scripting to tunnel thru nighttime internet blockers as a kid
   * Familiarity with Tails linux, encryption concepts, some kali linux and more.
