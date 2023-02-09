@@ -1,4 +1,4 @@
-## Hello, I'm Jacob Bruner
+## Hi I'm Jacob Bruner
 I'm a purely self-taught developer-hobbyist who's been working with computers all his life. In this time, I've accumulated a good working knowledge of a number of programming languages relating to webdevelopment, math, video-game scripting, and more.
 
 ### Things I work with:
